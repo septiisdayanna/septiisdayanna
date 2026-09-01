@@ -23,32 +23,55 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td width="65%" valign="middle">
+<table align="center" width="90%">
+<tr>
 
-## About Me
+<td width="65%" valign="middle">
 
-I’m **Septi Isdayanna**, a fresh graduate in **Applied Informatics** with a growing focus on **Machine Learning, Data Analysis, and AI-driven applications**.
+<h2>About Me</h2>
 
-I enjoy turning datasets and real-world problems into practical solutions through data exploration, machine learning, visualization, and application development.
+<p>
+I'm <strong>Septi Isdayanna</strong>, a fresh graduate in
+<strong>Applied Informatics</strong> with a growing focus on
+<strong>Machine Learning, Data Analysis, and AI-driven applications</strong>.
+</p>
 
-My current interests include:
+<p>
+I enjoy turning datasets and real-world problems into practical
+solutions through data exploration, machine learning, visualization,
+and application development.
+</p>
 
-- Machine Learning & Predictive Modeling
-- Data Analysis & Exploratory Data Analysis
-- Explainable AI (XAI)
-- Data Visualization
-- Streamlit-based Data Applications
-- MLOps & Model Deployment
+<p>
+<strong>My current interests include:</strong>
+</p>
 
-I’m continuously improving my technical skills by building projects that combine **data, machine learning, and practical applications**.
+<ul>
+<li>Machine Learning &amp; Predictive Modeling</li>
+<li>Data Analysis &amp; Exploratory Data Analysis</li>
+<li>Explainable AI (XAI)</li>
+<li>Data Visualization</li>
+<li>Streamlit-based Data Applications</li>
+<li>MLOps &amp; Model Deployment</li>
+</ul>
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="art/profile.gif" width="260" alt="Septi Isdayanna">
-    </td>
-  </tr>
+<p>
+I'm continuously improving my technical skills by building projects
+that combine <strong>data, machine learning, and practical applications</strong>.
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="art/profile.gif"
+  width="260"
+  alt="Septi Isdayanna">
+
+</td>
+
+</tr>
 </table>
 
 <br>
