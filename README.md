@@ -46,7 +46,7 @@ I’m continuously improving my technical skills by building projects that combi
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="art/profile.png" width="260" alt="Septi Isdayanna">
+      <img src="art/profile.gif" width="260" alt="Septi Isdayanna">
     </td>
   </tr>
 </table>
