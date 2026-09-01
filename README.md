@@ -12,15 +12,11 @@
   </picture>
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E875AE&center=true&vCenter=true&width=720&lines=Building+Practical+Machine+Learning+Projects;Exploring+Data+Analysis+%26+AI;Learning+Explainable+AI+%26+MLOps;Turning+Data+into+Meaningful+Solutions"
-      alt="Typing animation">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=720&height=50&lines=Building+Practical+Machine+Learning+Projects;Exploring+Data+Analysis+%26+AI;Learning+Explainable+AI+%26+MLOps;Turning+Data+into+Meaningful+Solutions" alt="Typing headlines" />
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/septiisdayanna">
@@ -37,8 +33,6 @@
     src="https://komarev.com/ghpvc/?username=septiisdayanna&label=Profile%20Views&style=for-the-badge&color=8EAD45&labelColor=E8F0C8"
     alt="Profile Views">
 </p>
-
-<br>
 
 
 <!-- ========================= ABOUT ME ========================= -->
