@@ -14,8 +14,6 @@
 
 <br>
 
-<h1 align="center">Hey there, I'm Septi Isdayanna 👋</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -171,8 +169,6 @@ MLOps
 </tr>
 </table>
 
-<br>
-
 <!-- ========================= CONNECT ========================= -->
 
 <h2 align="center">Let's Connect</h2>
@@ -211,9 +207,6 @@ MLOps
   </a>
 
 </p>
-
-<br>
-
 
 <!-- ========================= FOOTER ========================= -->
 
